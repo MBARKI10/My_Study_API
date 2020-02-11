@@ -1,0 +1,1475 @@
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\bin\Debug\App.xbf
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\bin\Debug\Views\LoginView.xbf
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\bin\Debug\Views\MainView.xbf
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\bin\Debug\Views\RegisterView.xbf
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.xr.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.exe
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.pdb
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\bin\Debug\resources.pri
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\bin\Debug\AppxManifest.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.build.appxrecipe
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\App.g.i.cs
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\App.g.cs
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.i.cs
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.cs
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.i.cs
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.cs
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.i.cs
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.cs
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\App.xaml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xaml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xaml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xaml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\App.xbf
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xbf
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xbf
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xbf
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.exe
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.pdb
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csproj.GenerateResource.Cache
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml.intermediate
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles.intermediate
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles.intermediate
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles.intermediate
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\ProjectArchitectures.txt
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csprojResolveAssemblyReference.cache
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\App.xbf
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\Views\LoginView.xbf
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\Views\MainView.xbf
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\Views\RegisterView.xbf
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.xr.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.exe
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.pdb
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\resources.pri
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\AppxManifest.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.build.appxrecipe
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csprojResolveAssemblyReference.cache
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\App.g.i.cs
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\App.g.cs
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.i.cs
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.cs
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.i.cs
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.cs
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.i.cs
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.cs
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\XamlTypeInfo.g.cs
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\App.xaml
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xaml
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xaml
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\App.xbf
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xbf
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xbf
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\XamlSaveStateFile.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xaml
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xbf
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.exe
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.pdb
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csproj.GenerateResource.Cache
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml.intermediate
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles.intermediate
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles.intermediate
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles.intermediate
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt.intermediate
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\ProjectArchitectures.txt
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.i.cs
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.cs
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xaml
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xbf
+H:\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\Views\ClasseView.xbf
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\App.xbf
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\Views\ClasseView.xbf
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\Views\LoginView.xbf
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\Views\MainView.xbf
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\Views\PostView.xbf
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\Views\RegisterView.xbf
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.xr.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.exe
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.pdb
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\resources.pri
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\AppxManifest.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.build.appxrecipe
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csprojResolveAssemblyReference.cache
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\App.g.i.cs
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\App.g.cs
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.i.cs
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.cs
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.i.cs
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.cs
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.i.cs
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.cs
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.i.cs
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.cs
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.i.cs
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.cs
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\App.xaml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xaml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xaml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xaml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xaml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\App.xbf
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xbf
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xbf
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xbf
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xbf
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xaml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xbf
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.exe
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.pdb
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csproj.GenerateResource.Cache
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml.intermediate
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles.intermediate
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles.intermediate
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles.intermediate
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\myStudyWP\obj\Debug\ProjectArchitectures.txt
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\bin\Debug\App.xbf
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\bin\Debug\Views\ClasseView.xbf
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\bin\Debug\Views\LoginView.xbf
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\bin\Debug\Views\MainView.xbf
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\bin\Debug\Views\PostView.xbf
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\bin\Debug\Views\RegisterView.xbf
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.xr.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.exe
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.pdb
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\bin\Debug\resources.pri
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\bin\Debug\AppxManifest.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.build.appxrecipe
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csprojResolveAssemblyReference.cache
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\App.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\App.g.cs
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.cs
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.cs
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.cs
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.cs
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.cs
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\App.xaml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xaml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xaml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xaml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xaml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xaml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\App.xbf
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xbf
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xbf
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xbf
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xbf
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xbf
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.exe
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.pdb
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csproj.GenerateResource.Cache
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml.intermediate
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles.intermediate
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles.intermediate
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles.intermediate
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\myStudyWP\obj\Debug\ProjectArchitectures.txt
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\bin\Debug\App.xbf
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\bin\Debug\Views\ClasseView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\bin\Debug\Views\LoginView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\bin\Debug\Views\MainView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\bin\Debug\Views\PostView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\bin\Debug\Views\RegisterView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.xr.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.exe
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.pdb
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\bin\Debug\resources.pri
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\bin\Debug\AppxManifest.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.build.appxrecipe
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csprojResolveAssemblyReference.cache
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\App.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\App.g.cs
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.cs
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.cs
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.cs
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.cs
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.cs
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\App.xaml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xaml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xaml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xaml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xaml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xaml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\App.xbf
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.exe
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.pdb
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csproj.GenerateResource.Cache
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml.intermediate
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles.intermediate
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles.intermediate
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles.intermediate
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\ProjectArchitectures.txt
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\bin\Debug\Views\LoadingView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.cs
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xaml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\bin\Debug\Views\SessionView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.cs
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xaml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xbf
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\App.xbf
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\Views\ClasseView.xbf
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\Views\LoadingView.xbf
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\Views\LoginView.xbf
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\Views\MainView.xbf
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\Views\PostView.xbf
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\Views\RegisterView.xbf
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\Views\SessionView.xbf
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.xr.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.exe
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.pdb
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\resources.pri
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\AppxManifest.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.build.appxrecipe
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\App.g.i.cs
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\App.g.cs
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.i.cs
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.cs
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.i.cs
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.cs
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.i.cs
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.cs
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.i.cs
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.cs
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.i.cs
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.cs
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.i.cs
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.cs
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.i.cs
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.cs
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\XamlTypeInfo.g.cs
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\App.xaml
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xaml
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xaml
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xaml
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xaml
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xaml
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xaml
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xaml
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\App.xbf
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xbf
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xbf
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xbf
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xbf
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xbf
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xbf
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xbf
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\XamlSaveStateFile.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.exe
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.pdb
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csproj.GenerateResource.Cache
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml.intermediate
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles.intermediate
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles.intermediate
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles.intermediate
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt.intermediate
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\ProjectArchitectures.txt
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\App.xbf
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\Views\ClasseView.xbf
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\Views\LoadingView.xbf
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\Views\LoginView.xbf
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\Views\MainView.xbf
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\Views\PostView.xbf
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\Views\RegisterView.xbf
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\Views\SessionView.xbf
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.xr.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.exe
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.pdb
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\resources.pri
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\AppxManifest.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.build.appxrecipe
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\App.g.i.cs
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\App.g.cs
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.i.cs
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.cs
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.i.cs
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.cs
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.i.cs
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.cs
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.i.cs
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.cs
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.i.cs
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.cs
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.i.cs
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.cs
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.i.cs
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.cs
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\XamlTypeInfo.g.cs
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\App.xaml
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xaml
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xaml
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xaml
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xaml
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xaml
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xaml
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xaml
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\App.xbf
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xbf
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xbf
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xbf
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xbf
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xbf
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xbf
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xbf
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\XamlSaveStateFile.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.exe
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.pdb
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csproj.GenerateResource.Cache
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml.intermediate
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles.intermediate
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles.intermediate
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles.intermediate
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt.intermediate
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\V1.0.0.1 don't touch\MyStudyAPI\myStudyWP\obj\Debug\ProjectArchitectures.txt
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\App.xbf
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\ClasseView.xbf
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\LoadingView.xbf
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\LoginView.xbf
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\MainView.xbf
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\PostView.xbf
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\RegisterView.xbf
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\SessionView.xbf
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.xr.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.exe
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.pdb
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\resources.pri
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\AppxManifest.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.build.appxrecipe
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\App.g.i.cs
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\App.g.cs
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.i.cs
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.cs
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.i.cs
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.cs
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.i.cs
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.cs
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.i.cs
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.cs
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.i.cs
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.cs
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.i.cs
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.cs
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.i.cs
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.cs
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\App.xaml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xaml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xaml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xaml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xaml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xaml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xaml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xaml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\App.xbf
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xbf
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xbf
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xbf
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xbf
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xbf
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xbf
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xbf
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.exe
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.pdb
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csproj.GenerateResource.Cache
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml.intermediate
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles.intermediate
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles.intermediate
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles.intermediate
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\ProjectArchitectures.txt
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csprojResolveAssemblyReference.cache
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\App.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\ClasseView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\LoadingView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\LoginView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\MainView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\PostView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\RegisterView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\SessionView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.xr.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.exe
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\resources.pri
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\AppxManifest.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.build.appxrecipe
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\App.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\App.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\App.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\App.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.exe
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csproj.GenerateResource.Cache
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\ProjectArchitectures.txt
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\App.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\ClasseView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\LoadingView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\LoginView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\MainView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\PostsView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\PostView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\RegisterView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\SessionView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.xr.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.exe
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\resources.pri
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\AppxManifest.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.build.appxrecipe
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csprojResolveAssemblyReference.cache
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\App.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\App.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\App.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\App.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.exe
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csproj.GenerateResource.Cache
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\ProjectArchitectures.txt
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\App.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\ClasseView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\LoadingView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\LoginView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\MainView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\PostsView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\PostView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\RegisterView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Views\SessionView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.xr.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.exe
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\resources.pri
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\AppxManifest.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.build.appxrecipe
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csprojResolveAssemblyReference.cache
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\App.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\App.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\App.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\App.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.exe
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csproj.GenerateResource.Cache
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\myStudyWP\obj\Debug\ProjectArchitectures.txt
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\bin\Debug\App.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\bin\Debug\Views\ClasseView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\bin\Debug\Views\LoadingView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\bin\Debug\Views\LoginView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\bin\Debug\Views\MainView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\bin\Debug\Views\PostsView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\bin\Debug\Views\PostView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\bin\Debug\Views\RegisterView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\bin\Debug\Views\SessionView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.xr.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.exe
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\bin\Debug\resources.pri
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\bin\Debug\AppxManifest.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.build.appxrecipe
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csprojResolveAssemblyReference.cache
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\App.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\App.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\App.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\App.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.exe
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csproj.GenerateResource.Cache
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\myStudyWP\obj\Debug\ProjectArchitectures.txt
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\App.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\ClasseView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\EventsView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\LoadingView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\LoginView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\MainView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\PostsView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\PostView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\RegisterView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\SessionView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.xr.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.exe
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\resources.pri
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\AppxManifest.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.build.appxrecipe
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\App.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\App.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\App.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\App.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.exe
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csproj.GenerateResource.Cache
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\ProjectArchitectures.txt
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\App.xbf
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\ClasseView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\EventsView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\LoadingView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\LoginView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\MainView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\PostsView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\PostView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\RegisterView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\SessionView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.xr.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.exe
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.pdb
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\resources.pri
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\AppxManifest.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.build.appxrecipe
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csprojResolveAssemblyReference.cache
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\App.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\App.g.cs
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.cs
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.g.cs
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.cs
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.cs
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.cs
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.cs
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.cs
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.cs
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.i.cs
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.cs
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\App.xaml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xaml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.xaml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xaml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xaml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xaml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xaml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xaml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xaml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xaml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\App.xbf
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xbf
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.exe
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.pdb
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csproj.GenerateResource.Cache
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml.intermediate
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles.intermediate
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles.intermediate
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles.intermediate
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\ProjectArchitectures.txt
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\App.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\ClasseView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\EventsView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\LoadingView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\LoginView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\MainView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\PostsView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\PostView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\RegisterView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Views\SessionView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.xr.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.exe
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\resources.pri
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\AppxManifest.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.build.appxrecipe
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\App.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\App.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\App.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\App.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.exe
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csproj.GenerateResource.Cache
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\myStudyWP\obj\Debug\ProjectArchitectures.txt
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\App.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\Views\ClasseView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\Views\EventsView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\Views\LoadingView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\Views\LoginView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\Views\MainView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\Views\PostsView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\Views\PostView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\Views\RegisterView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\Views\SessionView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.xr.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.exe
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\resources.pri
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\AppxManifest.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.build.appxrecipe
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\App.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\App.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\App.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\App.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.exe
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csproj.GenerateResource.Cache
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\ProjectArchitectures.txt
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csprojResolveAssemblyReference.cache
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\App.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\Views\ClasseView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\Views\EventsView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\Views\LoadingView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\Views\LoginView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\Views\MainView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\Views\PostsView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\Views\PostView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\Views\RegisterView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\Views\SessionView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.xr.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.exe
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\resources.pri
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\AppxManifest.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.build.appxrecipe
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csprojResolveAssemblyReference.cache
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\App.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\App.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.i.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\App.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xaml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\App.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xbf
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.exe
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csproj.GenerateResource.Cache
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\myStudyWP\obj\Debug\ProjectArchitectures.txt
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\App.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\ClasseView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\EventsView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\EventView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\LoadingView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\LoginView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\MainView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\PostsView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\PostView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\RegisterView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\SessionView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.xr.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.exe
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\resources.pri
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\AppxManifest.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.build.appxrecipe
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\App.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\App.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\App.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\App.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.exe
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csproj.GenerateResource.Cache
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\ProjectArchitectures.txt
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\TodoView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\TodoView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\TodoView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\TodoView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\TodoView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csprojResolveAssemblyReference.cache
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\App.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\ClasseView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\EventsView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\EventView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\LoadingView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\LoginView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\MainView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\PostsView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\PostView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\RegisterView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\SessionView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\TodayView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\TodoView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.xr.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.exe
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\resources.pri
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\AppxManifest.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.build.appxrecipe
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csprojResolveAssemblyReference.cache
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\App.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\App.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\TodayView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\TodayView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\TodoView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\TodoView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\App.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\TodoView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\App.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\TodoView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\TodayView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\TodayView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.exe
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csproj.GenerateResource.Cache
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\ProjectArchitectures.txt
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\App.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\ClasseView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\EventsView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\EventView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\LoadingView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\LoginView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\MainView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\PostsView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\PostView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\RegisterView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\SessionView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\TodayView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\TodoView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.xr.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.exe
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\resources.pri
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\AppxManifest.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.build.appxrecipe
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csprojResolveAssemblyReference.cache
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\App.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\App.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\TodayView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\TodayView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\TodoView.g.i.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\TodoView.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\App.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\TodayView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\TodoView.xaml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\App.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\ClasseView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventsView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\EventView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoadingView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\LoginView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\MainView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostsView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\PostView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\RegisterView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\SessionView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\TodayView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\Views\TodoView.xbf
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\XamlSaveStateFile.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.exe
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\myStudyWP.csproj.GenerateResource.Cache
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\priconfig.xml.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\layout.resfiles.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\resources.resfiles.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\pri.resfiles.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\myStudyWP\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<posts>
+  <post id="bk101">
+    <author>Chawki messaoudi</author>
+    <title>Examens base de donnée</title>
+    <publish_date>3/5/2015</publish_date>
+    <description>
+      An in-depth look at creating applications
+      with XML bla bla bla bla bla.
+    </description>
+
+    <!--<comments>
+      <comment>
+        
+      </comment>
+    </comments>-->
+    
+  </post>
+
+  <post id="bk102">
+    <author>Hamma</author>
+    <title>Test base de donnée</title>
+    <publish_date>3/5/2015</publish_date>
+    <description>
+      An in-depth look at creating applications
+      with XML bla bla bla bla bla.
+    </description>
+
+    <!--<comments>
+      <comment>
+        
+      </comment>
+    </comments>-->
+
+  </post>
+
+  <post id="bk103">
+    <author>Frér</author>
+    <title>Zeb base de donnée</title>
+    <publish_date>3/5/2015</publish_date>
+    <description>
+      An in-depth look at creating applications
+      with XML bla bla bla bla bla.
+    </description>
+
+    <!--<comments>
+      <comment>
+        
+      </comment>
+    </comments>-->
+
+  </post>
+
+</posts>

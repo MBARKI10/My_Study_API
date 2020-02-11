@@ -1,0 +1,125 @@
+﻿<Page
+    x:Class="myStudyWP.Views.SessionView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:myStudyWP.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Background>
+        <ImageBrush Stretch="Fill" ImageSource="ms-appx:///Assets/bg.png"/>
+    </Page.Background>
+    
+    <Page.BottomAppBar>
+        <CommandBar Name="Appbar" Visibility="Collapsed">
+            <AppBarButton Name="DeleteComment" Click="DeleteComment_Click" Label="Delete" Icon="Delete"/>
+            <AppBarButton Name="EditCommen" Click="EditCommen_Click" Label="Edit" Icon="Edit"/>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock Name="Appname" Text="myEducationPartner" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <TextBlock Text="Session" Margin="0,-6.5,0,15" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+            <Popup Name="StandardPopup">
+
+                <Border Width="360" Height="275" Background="#FF363636">
+                    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <TextBox Name="popupTxt" Text="" FontSize="24.667" HorizontalAlignment="Center" />
+                        <DatePicker Name="popupDate" />
+                        <Button  Name="btEdite" Click="btEdite_Click"  Content="Close" HorizontalAlignment="Center" />
+                    </StackPanel>
+
+                </Border>
+
+            </Popup>
+            <ScrollViewer HorizontalScrollMode="Disabled" VerticalScrollMode="Enabled" VerticalScrollBarVisibility="Auto" ZoomMode="Disabled">
+            <StackPanel Orientation="Vertical">
+                <Border VerticalAlignment="Top" Background="#CCFFFFFF" CornerRadius="5">
+                    <Grid>
+                        <StackPanel Name="stkSessionInfo" DataContext="{Binding Hour}" Margin="5">
+                            <TextBlock FontWeight="SemiBold" Text="{Binding Subject}" FontSize="17" FontFamily="Segoe WP" Foreground="Black" TextWrapping="Wrap"/>
+                            <TextBlock Text="{Binding Teacher}" FontSize="17" FontFamily="Segoe WP" Foreground="Black" TextWrapping="Wrap"/>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="{Binding Time}" FontSize="17" FontFamily="Segoe WP" Foreground="Black" TextWrapping="Wrap"/>
+                                <TextBlock Text=" | " FontSize="17" FontFamily="Segoe WP" Foreground="Black" TextWrapping="Wrap"/>
+                                <TextBlock Text="{ Binding Room}" FontSize="17" FontFamily="Segoe WP" Foreground="Black" TextWrapping="Wrap"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </Grid>
+                </Border>
+               
+                
+                <TextBox Header="task content" Height="100" TextWrapping="Wrap"  Name="tbTodo" Background="#CCFFFFFF"></TextBox>
+
+                    <DatePicker Header="task date" Name="dpTodo">
+                    <DatePicker.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#E5F1E24C" Offset="1"/>
+                            <GradientStop Color="#E5F1E24C" Offset="1"/>
+                            <GradientStop Color="#E5E9DB49" Offset="0.996"/>
+                        </LinearGradientBrush>
+                    </DatePicker.Background>
+                </DatePicker>
+                    <GridViewItem Tapped="AddTodo_evnt"  HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch">
+                    <Border Margin="0,5,0,0" VerticalAlignment="Top" Background="#E5F1E24C" CornerRadius="5">
+                        <Grid>
+                            <StackPanel Margin="5">
+                                <TextBlock  FontWeight="SemiBold" HorizontalAlignment="Center" Text="add task" FontSize="17" FontFamily="Segoe WP" Foreground="White" TextWrapping="Wrap"/>
+                            </StackPanel>
+                        </Grid>
+                    </Border>
+                </GridViewItem>
+
+                    <ListView Name="AllTodos" ItemClick="AllTodos_ItemClick_1" IsItemClickEnabled="True"  HorizontalContentAlignment="Stretch" ItemsSource="{Binding todoCollectionItems}">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <Grid Holding="Grid_Holding" Width="{Binding itemWidth}" HorizontalAlignment="Stretch" MaxHeight="200" Margin="0,5" Background="#A5FFFFFF">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="30"/>
+                                        <RowDefinition Height="15"/>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="25"/>
+                                    </Grid.RowDefinitions>
+                                    <TextBlock Grid.Row="0" Text="For :"  TextWrapping="NoWrap" TextTrimming="CharacterEllipsis" Foreground="#FF323232" FontWeight="SemiBold" FontSize="19"/>
+                                    <TextBlock Grid.Row="0" Text="{Binding DeadlineDate}" Margin="5,2,5,0" VerticalAlignment="Center" TextWrapping="NoWrap" TextTrimming="CharacterEllipsis" Foreground="#FF323232" FontWeight="SemiBold" FontSize="19"/>
+                                    <TextBlock FontSize="13" Margin="15,0" Grid.Row="1" Foreground="#FF4F4F4F" Text="{Binding PublishDate}" VerticalAlignment="Center"/>
+                                    <TextBlock Grid.Row="2" TextTrimming="{Binding Content}" Margin="5,2,5,0" TextWrapping="Wrap" Foreground="#FF1B1B1B" FontWeight="SemiBold" FontSize="16" FontFamily="Segoe WP SemiLight"/>
+                                    <Grid Grid.Row="3">
+                                        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Right" Orientation="Horizontal" Margin="10,0">
+                                            <Image Source="ms-appx:///Assets/Like-48.png" Height="20"/>
+                                            <TextBlock FontSize="13" FontWeight="SemiBold" Margin="3,0,0,0" Foreground="Black" Text="{Binding Comments.Count}" VerticalAlignment="Center"/>
+                                            <Image Margin="10,0,0,0" Source="ms-appx:///Assets/Message-48.png" Height="18"/>
+                                            <TextBlock FontSize="13" FontWeight="SemiBold" Margin="3,0,0,0" Foreground="Black" Text="{Binding Comments.Dones}" VerticalAlignment="Center"/>
+                                        </StackPanel>
+                                    </Grid>
+                                </Grid>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </StackPanel>
+                
+               
+             
+            </ScrollViewer>
+
+        </Grid>
+    </Grid>
+</Page>

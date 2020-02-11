@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FRÈRE</Machine>
+    <WindowsUser>mouhame</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>52788fe8-c7b5-42ef-bffb-4ea71d83c65a</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.exe">
+      <PackagePath>myStudyWP.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\packages\Microsoft.Net.Http.2.2.29\lib\wpa81\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\packages\Microsoft.Net.Http.2.2.29\lib\wpa81\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\Assets\bg.png">
+      <PackagePath>Assets\bg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\Assets\Like-48.png">
+      <PackagePath>Assets\Like-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\Assets\Message-48.png">
+      <PackagePath>Assets\Message-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\ClasseView.xbf">
+      <PackagePath>Views\ClasseView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\EventsView.xbf">
+      <PackagePath>Views\EventsView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\EventView.xbf">
+      <PackagePath>Views\EventView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\LoadingView.xbf">
+      <PackagePath>Views\LoadingView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\LoginView.xbf">
+      <PackagePath>Views\LoginView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\MainView.xbf">
+      <PackagePath>Views\MainView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\PostsView.xbf">
+      <PackagePath>Views\PostsView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\PostView.xbf">
+      <PackagePath>Views\PostView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\RegisterView.xbf">
+      <PackagePath>Views\RegisterView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\SessionView.xbf">
+      <PackagePath>Views\SessionView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\TodayView.xbf">
+      <PackagePath>Views\TodayView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\bin\Debug\Views\TodoView.xbf">
+      <PackagePath>Views\TodoView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\bin\Debug\myStudyWP.xr.xml">
+      <PackagePath>myStudyWP.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don%27t touch_v15\V1.0.0.1 don%27t touch_v12\V1.0.0.1 don%27t touch_v11\V1.0.0.1 don%27t touch_v11\MyStudyAPI\myStudyWP\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1378 @@
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.csprojResolveAssemblyReference.cache
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+C:\Users\Med.Dell\Desktop\PFE Tayeb\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.csprojResolveAssemblyReference.cache
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+E:\PFE Tayeb1\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+C:\Users\digitika\Desktop\PFE Tayeb1\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.csprojResolveAssemblyReference.cache
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+H:\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.csprojResolveAssemblyReference.cache
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mouhame\SkyDrive\Privé\PFE Tayeb [02.05]\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.csprojResolveAssemblyReference.cache
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\digitika\Desktop\V1.0.0.0\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb
+C:\Users\digitika\Desktop\V1.0.0.1\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.csprojResolveAssemblyReference.cache
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+E:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+G:\V1.0.0.1 don't touch\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+C:\Users\mouhame\SkyDrive\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v1\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v2\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v1\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.csprojResolveAssemblyReference.cache
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v3\V1.0.0.1 don't touch_v4\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.csprojResolveAssemblyReference.cache
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb
+C:\Users\digitika\Desktop\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.csprojResolveAssemblyReference.cache
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v5\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.csprojResolveAssemblyReference.cache
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.csprojResolveAssemblyReference.cache
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+C:\Users\AHMED\Desktop\V1.0.0.1 don't touch_v9\V1.0.0.1 don't touch_v8\V1.0.0.1 don't touch_v5\V1.0.0.1 don't touch_v10 - Copy\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.csprojResolveAssemblyReference.cache
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.csprojResolveAssemblyReference.cache
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll.config
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\MyStudyAPI.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\EntityFramework.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Owin.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\WebGrease.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Newtonsoft.Json.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Helpers.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Mvc.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Optimization.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Razor.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Antlr3.Runtime.pdb
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\EntityFramework.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\bin\System.Web.Http.Owin.xml
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.csprojResolveAssemblyReference.cache
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.dll
+C:\Users\mouhame\SkyDrive\MyStudy\V1.0.0.1 don't touch_v15\V1.0.0.1 don't touch_v12\V1.0.0.1 don't touch_v11\V1.0.0.1 don't touch_v11\MyStudyAPI\MyStudyAPI\obj\Debug\MyStudyAPI.pdb

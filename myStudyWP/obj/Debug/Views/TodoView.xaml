@@ -1,0 +1,104 @@
+﻿<Page
+    x:Class="myStudyWP.Views.TodoView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:myStudyWP.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Background>
+        <ImageBrush Stretch="Fill" ImageSource="ms-appx:///Assets/bg.png"/>
+    </Page.Background>
+
+    <Page.BottomAppBar>
+        <CommandBar Name="Appbar" Visibility="Collapsed">
+            <AppBarButton x:ConnectionId='1' Name="DeleteComment"                             Label="Delete" Icon="Delete"/>
+            <AppBarButton x:ConnectionId='2' Name="EditCommen"                          Label="Edit" Icon="Edit"/>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock Name="Appname" Text="myEducationPartner" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <TextBlock Text="todo" Margin="0,-6.5,0,15" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+            <Popup Name="StandardPopup">
+
+                <Border Width="360" Height="275" Background="#FF363636">
+                    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <TextBox Name="popupTxt" Text="" FontSize="24.667" HorizontalAlignment="Center" />
+                        <Button x:ConnectionId='6'  Name="btEdite"                        Content="Close" HorizontalAlignment="Center" />
+                    </StackPanel>
+
+                </Border>
+
+            </Popup>
+            <ScrollViewer HorizontalScrollMode="Disabled" VerticalScrollMode="Enabled" VerticalScrollBarVisibility="Auto" ZoomMode="Disabled">
+                <StackPanel Orientation="Vertical">
+                    <Border VerticalAlignment="Top" Height="Auto" Background="#CCFFFFFF" CornerRadius="5">
+                        <Grid>
+                            <StackPanel Name="stkTodoInfo" DataContext="{Binding Todo}" Margin="5">
+                                <TextBlock Grid.Row="2" Text="{Binding Content}" Margin="5,2,5,0" TextWrapping="Wrap" Foreground="#FF1B1B1B" FontWeight="SemiBold" FontSize="16" FontFamily="Segoe WP SemiLight"/>
+                            </StackPanel>
+                        </Grid>
+                    </Border>
+                    <GridViewItem x:ConnectionId='3' Name="btdone"                        HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch">
+                        <Border Margin="0,5,0,0" VerticalAlignment="Top" Background="#E5F1E24C" CornerRadius="5">
+                            <Grid>
+                                <StackPanel Margin="5">
+                                    <TextBlock Name="txtdone" FontWeight="SemiBold" Text="Done" HorizontalAlignment="Center" FontSize="17" FontFamily="Segoe WP" Foreground="White" TextWrapping="Wrap"/>
+                                </StackPanel>
+                            </Grid>
+                        </Border>
+                    </GridViewItem>
+                    <TextBox Header="comment content" TextWrapping="Wrap" Height="130" Name="tbComment" Background="#CCFFFFFF"></TextBox>
+                    <GridViewItem x:ConnectionId='4'                            HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch">
+                        <Border Margin="0,5,0,0" VerticalAlignment="Top" Background="#E5F1E24C" CornerRadius="5">
+                            <Grid>
+                                <StackPanel Margin="5">
+                                    <TextBlock  FontWeight="SemiBold" HorizontalAlignment="Center" Text="Comment" FontSize="17" FontFamily="Segoe WP" Foreground="White" TextWrapping="Wrap"/>
+                                </StackPanel>
+                            </Grid>
+                        </Border>
+                    </GridViewItem>
+
+                    <ListView x:ConnectionId='5'  Name="commentTodoList"  Margin="0,5,0,0"                                  ItemsSource="{Binding CommentCollectionItems}">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <Border Margin="0,8,0,0" Background="#CCFFFFFF" Width="{Binding itemWidth}" CornerRadius="5">
+                                    <Grid Tag="{Binding IdComment}" >
+                                        <StackPanel Orientation="Vertical" Margin="5" >
+                                            <TextBlock Grid.Row="0" Text="{Binding Author}" Margin="5,2,5,0" VerticalAlignment="Center" TextWrapping="NoWrap" TextTrimming="CharacterEllipsis" Foreground="#FF323232" FontWeight="SemiBold" FontSize="19"/>
+                                            <TextBlock Grid.Row="2" Text="{Binding Content}" Margin="5,2,5,0" TextWrapping="Wrap" Foreground="#FF1B1B1B" FontWeight="SemiBold" FontSize="16" FontFamily="Segoe WP SemiLight"/>
+                                            <TextBlock FontSize="13" Margin="5,5,0,0" Grid.Row="1" Foreground="#FF4F4F4F" Text="{Binding PublishDate}" VerticalAlignment="Center"/>
+                                        </StackPanel>
+                                    </Grid>
+                                </Border>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+
+                </StackPanel>
+            </ScrollViewer>
+
+        </Grid>
+    </Grid>
+</Page>
+

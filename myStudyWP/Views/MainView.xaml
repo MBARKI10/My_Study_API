@@ -1,0 +1,84 @@
+﻿<Page
+    x:Class="myStudyWP.Views.MainView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:myStudyWP.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Background>
+        <ImageBrush Stretch="Fill" ImageSource="ms-appx:///Assets/bg.png"/>
+    </Page.Background>
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock Text="myEducationPartner" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <TextBlock Text="Dashboard" Margin="0,-6.5,0,15" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="150"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <GridViewItem Name="Today" Tapped="Today_Tapped" Grid.Column="0"  Grid.Row="0" Margin="5" Background="#D8468ECB" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch">
+                    <StackPanel Margin="10,0,0,0" Orientation="Vertical">
+                        <TextBlock Text="Today" FontSize="30" FontFamily="Segoe WP SemiLight"/>
+                        <TextBlock Text="2 classes today" FontSize="15" Margin="0,10,10,5" FontFamily="Segoe WP SemiLight"/>
+                        <TextBlock Text="1 tasks today" FontSize="15" Margin="0,0,10,5" FontFamily="Segoe WP SemiLight"/>
+                        <TextBlock Text="1 event today" FontSize="15" FontFamily="Segoe WP SemiLight"/>
+                    </StackPanel>
+                </GridViewItem>
+
+                <GridViewItem Name="Posts" Tapped="Posts_Tapped" Grid.Column="1" Grid.Row="0" Margin="5" Background="#D8E213C6" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch">
+                    <StackPanel Margin="10,0,0,0" Orientation="Vertical">
+                        <TextBlock Text="Posts" FontSize="30" FontFamily="Segoe WP SemiLight"/>
+                        <TextBlock Text="0 Posts today" FontSize="15" Margin="0,10,10,5" FontFamily="Segoe WP SemiLight"/>
+                        <TextBlock Text="7 Posts this week" FontSize="15" Margin="0,0,10,5" FontFamily="Segoe WP SemiLight"/>
+                    </StackPanel>
+                </GridViewItem>
+
+                <GridViewItem Name="Classes" Tapped="Classes_Tapped" Grid.Column="0" Grid.Row="1" Margin="5" Background="#D8B0C100" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch">
+                    <StackPanel Margin="10,0,0,0" Orientation="Vertical">
+                        <TextBlock Text="Classes" FontSize="30" FontFamily="Segoe WP SemiLight"/>
+                        <TextBlock Text="2 classes tomorrow" FontSize="15" Margin="0,10,10,5" FontFamily="Segoe WP SemiLight"/>
+                        <TextBlock Text="1 classes have tasks " FontSize="15" Margin="0,0,10,5" FontFamily="Segoe WP SemiLight"/>
+                    </StackPanel>
+                </GridViewItem>
+
+                <GridViewItem Name="Events" Tapped="Events_Tapped" Grid.Column="1" Grid.Row="1" Margin="5" Background="#D8919191" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch">
+                    <StackPanel Margin="10,0,0,0" Orientation="Vertical">
+                        <TextBlock Text="Events" FontSize="30" FontFamily="Segoe WP SemiLight"/>
+                        <TextBlock Text="0 event today" FontSize="15" Margin="0,10,10,5" FontFamily="Segoe WP SemiLight"/>
+                        <TextBlock Text="7 event this week" FontSize="15" Margin="0,0,10,5" FontFamily="Segoe WP SemiLight"/>
+                        <TextBlock Text="7 event this month" FontSize="15" Margin="0,0,10,5" FontFamily="Segoe WP SemiLight"/>
+                    </StackPanel>
+                </GridViewItem>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>
